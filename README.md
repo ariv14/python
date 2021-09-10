@@ -1,11 +1,12 @@
-This is my first Python program
+Day 1 Class:
 
-Printing
+* Printing
+https://github.com/ariv14/python/tree/main/printing
 
-Commenting
+* Commenting
 
-Debugging
+* Debugging
 
-String manipulation
+* String manipulation
 
-Variables
+* Variables
