@@ -15,12 +15,6 @@ print("String Concatenation is done with the "+" sign.")
   print('e.g. print("Hello " + "world")')
 print(("New lines can be created with a backslash and n.")
 
-Retry again:
-print("Day 1 - String Manipulation")
-print("String Concatenation is done with the "+" sign.")
-  print('e.g. print("Hello " + "world")')
-print(("New lines can be created with a backslash and n.")
-
 Result 2:
 
   File "/Volumes/Data/Labs/Python/Python/Day1_debugging_practice/fixed_code1.py", line 4
