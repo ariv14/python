@@ -1,0 +1,5 @@
+Day 1 - Python Print Functions
+The function is declared like this:
+print('what to print')
+
+Process finished with exit code 0

@@ -2,13 +2,13 @@
 
 Day1:
 
-https://github.com/ariv14/python/tree/main/printing
 * Printing
+https://github.com/ariv14/python/tree/main/printing
+
+*String manipulation
 
 Commenting
 
 Debugging
-
-String manipulation
 
 Variables
