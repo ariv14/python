@@ -1,4 +1,4 @@
-Day 1 Class:
+**Day 1 Class:**
 
 * Printing
 https://github.com/ariv14/python/tree/main/printing
