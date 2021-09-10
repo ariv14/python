@@ -1,0 +1,69 @@
+Result1:
+File "/Volumes/Data/Labs/Python/Python/Day1_debugging_practice/debug_code.py", line 1
+SyntaxError: Non-ASCII character '\xf0' in file /Volumes/Data/Labs/Python/Python/Day1_debugging_practice/debug_code.py on line 1, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details
+
+Process finished with exit code 1
+
+The above error states the line 1 code is having Non-ASCII character
+To fix, we are adding the quote to make all the characters in print function as valid characters:
+
+Fix 1:
+
+# Fixing the quotes for below line
+print("Day 1 - String Manipulation")
+print("String Concatenation is done with the "+" sign.")
+  print('e.g. print("Hello " + "world")')
+print(("New lines can be created with a backslash and n.")
+
+Retry again:
+print("Day 1 - String Manipulation")
+print("String Concatenation is done with the "+" sign.")
+  print('e.g. print("Hello " + "world")')
+print(("New lines can be created with a backslash and n.")
+
+Result 2:
+
+  File "/Volumes/Data/Labs/Python/Python/Day1_debugging_practice/fixed_code1.py", line 4
+    print('e.g. print("Hello " + "world")')
+    ^
+IndentationError: unexpected indent
+
+Process finished with exit code 1
+
+Error: Unexpected indent
+
+Fix 2:
+# Fixing the quotes for below line
+print("Day 1 - String Manipulation")
+print("String Concatenation is done with the "+" sign.")
+# Fixing the indent for below line
+print('e.g. print("Hello " + "world")')
+print(("New lines can be created with a backslash and n.")
+
+Result 3:
+  File "/Volumes/Data/Labs/Python/Python/Day1_debugging_practice/fixed_code1.py", line 6
+                                 ^
+SyntaxError: invalid syntax
+
+Process finished with exit code 1
+
+Error: invalid syntax
+
+Fix 3:
+# Fixing the quotes for below line
+print("Day 1 - String Manipulation")
+print("String Concatenation is done with the "+" sign.")
+# Fixing the indent for below line
+print('e.g. print("Hello " + "world")')
+# Fixing the syntax for below line
+print("New lines can be created with a backslash and n.")
+
+Result:
+
+/Volumes/Data/Labs/Python/venv/bin/python /Volumes/Data/Labs/Python/Python/Day1_debugging_practice/fixed_code1.py
+Day 1 - String Manipulation
+String Concatenation is done with the  sign.
+e.g. print("Hello " + "world")
+New lines can be created with a backslash and n.
+
+Process finished with exit code 0
