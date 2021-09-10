@@ -1,6 +1,9 @@
-This is my first Python program
+**Python 100 days of code:**
 
-Printing
+Day1:
+
+https://github.com/ariv14/python/tree/main/printing
+* Printing
 
 Commenting
 
