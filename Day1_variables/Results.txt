@@ -10,13 +10,10 @@ variables_lab.py results
 
 # Switch variables values in output:
 
-a = raw_input("a value:")
-b = raw_input("b value:")
+/Volumes/Data/Labs/Python/venv/bin/python /Volumes/Data/Labs/Python/Python/Day1_variables/variables_lab.py
+a value:75
+b value:25
+a = 25
+b = 75
 
-vala = a
-valb = b
-a = valb
-b = vala
-
-print("a = " + a)
-print("b = " + b)
+Process finished with exit code 0
