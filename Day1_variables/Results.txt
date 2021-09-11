@@ -1,0 +1,22 @@
+variables.py code results
+
+/Volumes/Data/Labs/Python/venv/bin/python /Volumes/Data/Labs/Python/Python/Day1_variables/variable.py
+What is your name:Arivoli
+Arivoli
+
+Process finished with exit code 0
+
+variables_lab.py results
+
+# Switch variables values in output:
+
+a = raw_input("a value:")
+b = raw_input("b value:")
+
+vala = a
+valb = b
+a = valb
+b = vala
+
+print("a = " + a)
+print("b = " + b)
