@@ -1,22 +1,13 @@
 **Python 100 days of code:**
 
-###### **Day1:**
+**Day1:**
 
-* Printing
+[* Printing](https://github.com/ariv14/python/tree/main/printing)
 
-https://github.com/ariv14/python/tree/main/printing
+[*String manipulation](https://github.com/ariv14/python/tree/main/Day1_string_manipulation)
 
-*String manipulation
+[* Debugging](https://github.com/ariv14/python/tree/main/Day1_debugging_practice)
 
-https://github.com/ariv14/python/tree/main/Day1_string_manipulation
+[* Input](https://github.com/ariv14/python/tree/main/Day1_input)
 
-* Debugging
-
-https://github.com/ariv14/python/tree/main/Day1_debugging_practice
-
-* Input
-
-https://github.com/ariv14/python/tree/main/Day1_input
-
-
-Variables
+* Variables
