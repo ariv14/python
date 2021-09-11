@@ -1,0 +1,9 @@
+/Volumes/Data/Labs/Python/venv/bin/python /Volumes/Data/Labs/Python/Python/Project1_Day1_Simple_Name_Generator/name_generator.py
+Simple Name Generator
+What is the name of the city you grew up ?:
+Salem
+What is your family name ?:
+Murugan
+The name of your new brand is: Salem Murugan
+
+Process finished with exit code 0
