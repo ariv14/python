@@ -14,10 +14,9 @@ https://github.com/ariv14/python/tree/main/Day1_string_manipulation
 
 https://github.com/ariv14/python/tree/main/Day1_debugging_practice
 
-* Commenting
+* Input
 
-
-
+https://github.com/ariv14/python/tree/main/Day1_input
 
 
 Variables
