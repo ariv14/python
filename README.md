@@ -1,6 +1,6 @@
 **Python 100 days of code:**
 
-Day1:
+###### **Day1:**
 
 * Printing
 
