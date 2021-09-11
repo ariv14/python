@@ -1,0 +1,5 @@
+/Volumes/Data/Labs/Python/venv/bin/python /Volumes/Data/Labs/Python/Python/Day1_input/input.py
+What is your name?Arivoli
+Hello Arivoli
+
+Process finished with exit code 0
