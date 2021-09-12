@@ -1,0 +1,22 @@
+ariv@Arivolis-MacBook-Pro Project1_Day1_Simple_Name_Generator % kubectl create -f kubernetes_pod_name_generator.yaml 
+ 
+pod/namegenerator created
+ariv@Arivolis-MacBook-Pro Project1_Day1_Simple_Name_Generator % kubectl get pods                                    
+
+NAME                      READY   STATUS      RESTARTS   AGE
+hello-27191156--1-c8llx   0/1     Completed   0          2m53s
+hello-27191157--1-pxg2k   0/1     Completed   0          113s
+hello-27191158--1-wl65v   0/1     Completed   0          53s
+namegenerator             1/1     Running     0          2s
+ariv@Arivolis-MacBook-Pro Project1_Day1_Simple_Name_Generator % kubectl attach namegenerator -c namegenerator -i -t 
+
+If you don't see a command prompt, try pressing enter.
+
+
+Simple Name Generator
+
+What is the name of the city you grew up ? : Salem
+What is your family name ? : Arivoli
+The name of your new brand is: 
+Salem Arivoli
+Session ended, resume using 'kubectl attach namegenerator -c namegenerator -i -t' command when the pod is running

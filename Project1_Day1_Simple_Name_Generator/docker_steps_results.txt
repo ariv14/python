@@ -1,0 +1,17 @@
+docker build -f dockerfile -t arimatch1/pyproject1-name-generator:project1.v4 .
+
+docker push arimatch1/pyproject1-name-generator:project1.v4
+
+ariv@Arivolis-MacBook-Pro Project1_Day1_Simple_Name_Generator % docker run -it arimatch1/pyproject1-name-generator:project1.v4
+
+Simple Name Generator
+
+Press enter : 
+
+Simple Name Generator
+
+What is the name of the city you grew up ? : Salem
+What is your family name ? : Arivoli
+The name of your new brand is: 
+Salem Arivoli
+

@@ -1,0 +1,6 @@
+FROM python:2
+WORKDIR /Volumes/Data/Labs/Python/Python/Project1_Day1_Simple_Name_Generator
+COPY . .
+ADD name_generator.py /Volumes/Data/Labs/Python/Python/Project1_Day1_Simple_Name_Generator/name_generator.py
+CMD ["name_generator.py"]
+ENTRYPOINT ["python"]
