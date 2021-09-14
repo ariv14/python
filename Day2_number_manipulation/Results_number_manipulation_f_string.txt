@@ -1,0 +1,11 @@
+/usr/bin/python3 /Volumes/Data/Labs/Python/Python/Day2_number_manipulation/number_manipulation_f_string.py
+2.667
+3
+2
+#############################################################
+
+fstring example
+
+Your height is 1.74 and your weight is 90 and your BMI overweight is True
+
+Process finished with exit code 0
