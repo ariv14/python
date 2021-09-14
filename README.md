@@ -19,15 +19,20 @@
 **Day2:**
 
 [* Datatypes primitives](https://github.com/ariv14/python/tree/main/Day2_primitive_data_types)
+
   String -str
+
   Integer - int
+
   Float - float
+
   Boolean - (true/false)
+
   Subscript - substring
+
   Data Type conversions
 
 [* Math operations](https://github.com/ariv14/python/tree/main/Day2_math_operators)
-
 
   PEMDAS LR(Left to Right) (Priority of math operations in Python as the below order from top to bottom)
 
@@ -47,3 +52,5 @@
    - Based on the math operators in python BMI calculator program is coded:
 
    [BMI Calculator mini project](https://github.com/ariv14/python/tree/main/Day2_math_operators/bmi_calculator)
+   
+ * Number manipulation and f-string
