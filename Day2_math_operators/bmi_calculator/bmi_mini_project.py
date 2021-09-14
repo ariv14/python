@@ -3,8 +3,8 @@
 height = input("Enter your height in meters : ")
 weight = input("Enter your weight in kilograms : ")
 
-bmi = (weight / height ** 2)
-bmi_as_int = int(bmi)
+bmi = (int(weight) / float(height) ** 2)
+bmi_as_int = float(bmi)
 print("Your Body Mass Index is : ")
 print(bmi_as_int)
 print("\n")
