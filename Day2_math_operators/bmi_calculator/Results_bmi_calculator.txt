@@ -1,8 +1,8 @@
-/Volumes/Data/Labs/Python/venv/bin/python /Volumes/Data/Labs/Python/Python/Day2_math_operators/bmi_mini_project.py
+/usr/bin/python3 /Volumes/Data/Labs/Python/Python/Day2_math_operators/bmi_calculator/bmi_mini_project.py
 Enter your height in meters : 1.74
 Enter your weight in kilograms : 90
 Your Body Mass Index is :
-29
+29.72651605231867
 
 
 BMI Categories
