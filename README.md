@@ -53,4 +53,5 @@
 
    [BMI Calculator mini project](https://github.com/ariv14/python/tree/main/Day2_math_operators/bmi_calculator)
    
- * Number manipulation and f-string
+  [* Number manipulation and f-string](https://github.com/ariv14/python/tree/main/Day2_number_manipulation)
+
