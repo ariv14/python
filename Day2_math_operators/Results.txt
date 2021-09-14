@@ -1,0 +1,33 @@
+/Volumes/Data/Labs/Python/venv/bin/python /Volumes/Data/Labs/Python/Python/Day2_math_operators/math_operators.py
+#######################################################################
+
+Simple addition calculator
+Enter first value: 100
+Enter second value: 200
+The sum of two values are :
+300
+#######################################################################
+
+Simple subtraction calculator
+Enter first value: 200
+Enter second value: 150
+The subtraction of two values are :
+50
+#######################################################################
+
+Simple division calculator
+Enter first value: 6
+Enter second value: 2
+The division of two values are :
+3
+#######################################################################
+
+Simple multiplication calculator
+Enter first value: 5
+Enter second value: 4
+The multiplication of two values are :
+20
+#######################################################################
+
+
+Process finished with exit code 0

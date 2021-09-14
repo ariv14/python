@@ -18,17 +18,22 @@
 
 **Day2:**
 
-* Datatypes primitives
+[* Datatypes primitives](https://github.com/ariv14/python/tree/main/Day2_primitive_data_types)
   String -str
   Integer - int
   Float - float
-  Boolean
-  Subscript
+  Boolean - (true/false)
+  Subscript - substring
+  Data Type conversions
 
-* Numbers
+* Math operations
+  PEMDAS LR(Left to Right) (Priority of math operations in Python as the below order from top to bottom)
+  P - parentheses      ()
+  E - exponents        **
+  M - multiplication    *
+  D - division          /
+  A - addition          +
+  S - subtraction       -
 
-* Operations
-
-* Type conversions
-
-* f-Strings
+   - Based on the math operators in python BMI calculator program is coded:
+  BMI Calculator

@@ -1,0 +1,6 @@
+/Volumes/Data/Labs/Python/venv/bin/python /Volumes/Data/Labs/Python/Python/Day2_math_operators/bmi_mini_project.py
+Enter your height in meters : 1.74
+Enter your weight in kilograms : 90
+29
+
+Process finished with exit code 0
