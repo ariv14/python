@@ -26,14 +26,24 @@
   Subscript - substring
   Data Type conversions
 
-* Math operations
+[* Math operations](https://github.com/ariv14/python/tree/main/Day2_math_operators)
+
+
   PEMDAS LR(Left to Right) (Priority of math operations in Python as the below order from top to bottom)
+
   P - parentheses      ()
+
   E - exponents        **
+  
   M - multiplication    *
+  
   D - division          /
+  
   A - addition          +
+  
   S - subtraction       -
 
+
    - Based on the math operators in python BMI calculator program is coded:
-  BMI Calculator
+
+   [BMI Calculator](https://github.com/ariv14/python/tree/main/Day2_math_operators/bmi_calculator)
