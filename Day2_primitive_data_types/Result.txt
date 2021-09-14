@@ -1,0 +1,20 @@
+/Volumes/Data/Labs/Python/venv/bin/python /Volumes/Data/Labs/Python/Python/Day2_primitive_data_types/data_types.py
+############################################################
+The substring result is : yo
+############################################################
+
+Integer
+('The data type of a = 5 , b = 7 is :', <type 'int'>, <type 'int'>)
+The addition of a + b result is
+12
+############################################################
+
+Program to get two digit values as inputs and add the two digits:
+Type a two digit number: 89
+The addition of 8 and 9 is : 17
+############################################################
+
+
+Process finished with exit code 0
+
+

@@ -18,3 +18,17 @@
 
 **Day2:**
 
+* Datatypes primitives
+  String -str
+  Integer - int
+  Float - float
+  Boolean
+  Subscript
+
+* Numbers
+
+* Operations
+
+* Type conversions
+
+* f-Strings
