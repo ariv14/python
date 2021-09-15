@@ -1,0 +1,8 @@
+/usr/bin/python3 /Volumes/Data/Labs/Python/Python/Project2_Day2_Tip_Calculator/tip_calculator_project.py
+Welcome to tip calculator !
+What was the bill amount : 150
+What is the number of persons : 5
+What is the tip percentage you would like to offer (10%, 12% or 15%) : 12
+Each person should pay : 33.60
+
+Process finished with exit code 0
