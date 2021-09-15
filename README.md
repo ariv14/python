@@ -57,3 +57,7 @@
 
   [* Life left mini project](https://github.com/ariv14/python/tree/main/Day2_number_manipulation/life_left_mini_project)
   
+**Project 2 Day2 (Restaurant Tip Calculator):**
+
+ [* Tip calculator](https://github.com/ariv14/python/tree/main/Project2_Day2_Tip_Calculator)
+ 
