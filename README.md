@@ -55,3 +55,5 @@
    
   [* Number manipulation and f-string](https://github.com/ariv14/python/tree/main/Day2_number_manipulation)
 
+  [* Life left mini project](https://github.com/ariv14/python/tree/main/Day2_number_manipulation/life_left_mini_project)
+  
