@@ -1,0 +1,11 @@
+/usr/bin/python3 /Volumes/Data/Labs/Python/Python/Day2_number_manipulation/life_left_mini_project/life_left_mini_project.py
+Lifetime calculator
+Enter your age and maximum expected age
+
+Enter your age : 36
+Enter your maximum lifetime age :75
+
+
+You have 14235 days, 2028 weeks and 468 months left.
+
+Process finished with exit code 0
