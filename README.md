@@ -4,7 +4,7 @@
 
 [* Printing](https://github.com/ariv14/python/tree/main/printing)
 
-[*String manipulation](https://github.com/ariv14/python/tree/main/Day1_string_manipulation)
+[* String manipulation](https://github.com/ariv14/python/tree/main/Day1_string_manipulation)
 
 [* Debugging](https://github.com/ariv14/python/tree/main/Day1_debugging_practice)
 
@@ -60,4 +60,21 @@
 **Project 2 Day2 (Restaurant Tip Calculator):**
 
  [* Tip calculator](https://github.com/ariv14/python/tree/main/Project2_Day2_Tip_Calculator)
+
+
+**Day 3**
+
+ * Control Flow
+      - if / else
+        Odd or even
+      - Nested if statement
+        BMI calculator 2.0
+      - Multiple if statement
+        Pizza Order Practice
  
+ * Logical Operators
+   - Love Calculator 
+
+**Project 3 Day3 (Treasure Island):**
+
+ * Treasure Island
