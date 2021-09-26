@@ -66,14 +66,14 @@
 
  * Control Flow
       - if / else
-        Odd or even
+        (Odd or even project)
       - Nested if statement
-        BMI calculator 2.0
+        (BMI calculator 2.0 project)
       - Multiple if statement
-        Pizza Order Practice
+        (Pizza Order Practice project)
  
  * Logical Operators
-   - Love Calculator 
+   - Love Calculator Project
 
 **Project 3 Day3 (Treasure Island):**
 
