@@ -1,0 +1,7 @@
+/usr/bin/python3 /Volumes/Data/Labs/Python/Python/Day3_if_else/ifelse.py
+Welcome!! Please input any number to check odd or even !!
+
+Which number do you want to check? 3
+The number is odd number
+
+Process finished with exit code 0
