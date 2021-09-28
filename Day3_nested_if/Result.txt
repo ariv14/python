@@ -1,0 +1,29 @@
+Requirement 1:
+
+/usr/bin/python3 /Volumes/Data/Labs/Python/Python/Day3_nested_if/nested_if.py
+Welcome to the roller coaster
+
+What is your height:
+121
+You are allowed to ride!!
+What is your age:
+21
+Please pay $12
+
+Process finished with exit code 0
+
+#####################################################################################
+
+Requirement 2:
+
+/usr/bin/python3 /Volumes/Data/Labs/Python/Python/Day3_nested_if/nested_if_v2.py
+Welcome to the roller coaster
+
+What is your height:
+121
+You are allowed to ride!!
+What is your age:
+19
+Please pay $12
+
+Process finished with exit code 0
