@@ -65,9 +65,9 @@
 **Day 3**
 
  * Control Flow
-      - if / else
+      - [if / else](https://github.com/ariv14/python/tree/main/Day3_if_else)
         (Odd or even project)
-      - Nested if statement
+      - [Nested if statement](https://github.com/ariv14/python/tree/main/Day3_nested_if)
         (BMI calculator 2.0 project)
       - Multiple if statement
         (Pizza Order Practice project)
