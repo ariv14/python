@@ -66,11 +66,11 @@
 
  * Control Flow
       - [if / else](https://github.com/ariv14/python/tree/main/Day3_if_else)
-      - 
-        (Odd or even project & Roller coaster ride project)
+            
+              ------(Odd or even project & Roller coaster ride project)
       - [Nested if statement](https://github.com/ariv14/python/tree/main/Day3_nested_if)
-        
-      - (BMI calculator 2.0 project)
+            
+               -----(BMI calculator 2.0 project)
    
       - Multiple if statement
         
