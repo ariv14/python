@@ -27,3 +27,15 @@ What is your age:
 Please pay $12
 
 Process finished with exit code 0
+
+
+BMI Calculator 2.0
+
+/usr/bin/python3 /Volumes/Data/Labs/Python/Python/Day3_nested_if/bmi_calculator2.0.py
+Welcome to BMI calculator 2.0
+
+Enter your height in centimeters : 145
+Enter your weight in kilograms : 80
+Your BMI is 38.049940546967896 , you are Obese (Class II).
+
+Process finished with exit code 0
